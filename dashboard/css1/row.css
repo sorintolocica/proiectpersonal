@@ -1,0 +1,27 @@
+.new_row{
+    margin:2px;
+    padding:1px;
+    color: #2d2d2d;
+    font-weight: bold;
+    border-collapse:separate;
+    border-spacing:1vh;
+    text-align:center;
+    width: 1250px;
+}
+.new_row th,
+.new_row td{
+    border: 1px solid #484848;
+}
+
+.new_row tbody tr{
+
+    text-align:center;
+}
+.new_row thead tr{
+
+    text-align:center;
+    color: #ffffff;
+    background-color: #3a3a3a;
+    font-weight: bold;
+    font-size:14px;
+}
